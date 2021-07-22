@@ -1,0 +1,13 @@
+title: Change the title in _config.yml
+url: ""
+baseurl: "/"
+
+markdown: kramdown
+
+footer: yes
+footer_url: ""
+footer_text: "Last updated: June 2021"
+
+sass:
+    style: compressed
+    sass_dir: _sass
