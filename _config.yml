@@ -1,4 +1,4 @@
-title: Change the title in _config.yml
+title: Bas van der Sluis
 url: ""
 baseurl: "/"
 
@@ -9,5 +9,5 @@ footer_url: ""
 footer_text: "Last updated: June 2021"
 
 sass:
-    style: compressed
-    sass_dir: _sass
+  style: compressed
+  sass_dir: _sass
